@@ -1,1 +1,1 @@
-# fraud-detection
+Here, I pre-processed the datasets using feature selection techniques and separated them into two groups for testing and training. Then, I used well-known machine learning methods to identify the best accucracy.
